@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "IndAMR: Open analysis of antimicrobial resistance genes in public Indian bacterial genomes"
+type: software
+authors:
+  - family-names: Mohanty
+    given-names: Abhishek
+    orcid: "https://orcid.org/0009-0001-8880-2758"
+    affiliation: "Vellore Institute of Technology"
+repository-code: "https://github.com/abhishek-mohanty-bio-research/IndAMR"
+license: MIT
+keywords:
+  - antimicrobial resistance
+  - genomics
+  - India
+  - Klebsiella pneumoniae
+  - open science
